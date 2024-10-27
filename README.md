@@ -1,5 +1,8 @@
 # SnapAnswer
 
+> [!TIP]
+> 人类低质量试卷自动机 Pro 版: [TestpaperAuto](https://github.com/immengzi/TestpaperAuto)
+
 ## 适用场景
 
 在不平整的台面上拍摄或扫描文件，得到的 pdf 文件经过常规的 OCR 往往会出现识别错误的情况。
